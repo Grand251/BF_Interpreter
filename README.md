@@ -1,1 +1,1 @@
-# Brainf*ck Esoteric Language Interpreter
+# BF Esoteric Language Interpreter
